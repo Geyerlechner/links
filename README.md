@@ -15,3 +15,6 @@ https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
 
 ## XAMPP 8.0.28
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.28/xampp-windows-x64-8.0.28-0-VS16-installer.exe
+
+## Firefox 
+https://www.mozilla.org/de/firefox/all/#product-desktop-release
