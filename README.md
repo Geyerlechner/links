@@ -18,3 +18,6 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.28/xampp-window
 
 ## Firefox 
 https://www.mozilla.org/de/firefox/all/#product-desktop-release
+
+## phpMyAdmin
+https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip
