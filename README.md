@@ -7,6 +7,9 @@ https://windows.php.net/downloads/releases/php-8.2.10-nts-Win32-vs16-x64.zip
 ## PHP 8.2.10 VS16 x64 Thread Safe
 https://windows.php.net/downloads/releases/php-8.2.10-Win32-vs16-x64.zip
 
+## PHP 8.2.10 x64 Non Thread Safe Starter
+https://drive.google.com/file/d/1DptZUYRCfwuM32Y1fZJPIl_4_eRNJ35G/view?usp=drive_link
+
 ## MySQL Workbench 8.0.34 
 https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.34-winx64.msi
 
