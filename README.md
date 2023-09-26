@@ -22,5 +22,8 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.28/xampp-window
 ## Firefox 
 https://www.mozilla.org/de/firefox/all/#product-desktop-release
 
+## Google Chrome
+https://www.google.com/intl/de/chrome/next-steps.html?statcb=1&installdataindex=empty&defaultbrowser=0#
+
 ## phpMyAdmin
 https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip
