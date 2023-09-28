@@ -27,3 +27,6 @@ https://www.google.com/intl/de/chrome/next-steps.html?statcb=1&installdataindex=
 
 ## phpMyAdmin
 https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip
+
+## Git 2.42.0
+https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe
